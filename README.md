@@ -1,7 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Employee React Table
 ## Description
-[Track your fitness here!](https://dry-river-48635.herokuapp.com)
+[Check out the Demo here!](https://richardmshaw.github.io/Employee-React-Table/)
+
 An app that allows you to keep track of employee data by taking a json file and displaying it on the browser.
 Created using React, React-Table-V6.js and Node.js
 
